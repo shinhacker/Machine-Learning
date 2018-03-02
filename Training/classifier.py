@@ -32,5 +32,5 @@ prediciton2 = clf2.predict([[170,70,43]])
 prediciton3 = clf3.predict([[170,70,43]])
 
 print (prediciton)
-print (prediciton2)  # Seems neural network is little fishy
+print (prediciton2)  # Seems neural network is little fishy!
 print (prediciton3)
